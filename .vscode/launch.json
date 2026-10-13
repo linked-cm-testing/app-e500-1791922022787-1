@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run e500-1791922022787-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
